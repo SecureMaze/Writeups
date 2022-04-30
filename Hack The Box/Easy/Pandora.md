@@ -1,4 +1,4 @@
-# Pandora Writeup
+# Pandora
 
 ## Tools
 - nmap
